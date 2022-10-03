@@ -10,7 +10,7 @@ $ rviz
 
 load a parameters
 
-$ rosparam laod <YAML.file>
+$ rosparam load <YAML.file>
 
 create a map from a image
 
