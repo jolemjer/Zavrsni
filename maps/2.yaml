@@ -1,0 +1,8 @@
+image: /home/josip/ZavrsniRad/maps/2.png
+position: [240, 330, 0.0]
+height: 400
+width: 578
+granica: 220
+radijus: 100
+fov: 90
+step: 1

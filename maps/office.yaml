@@ -1,0 +1,8 @@
+image: /home/josip/ZavrsniRad/maps/office.png
+position: [7, 70, 0.0]
+height: 326
+width: 418
+granica: 220
+radijus: 50
+fov: 60
+step: 1
