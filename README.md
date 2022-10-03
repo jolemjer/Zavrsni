@@ -8,6 +8,10 @@ open rviz and open config rviz_file.rviz
 
 $ rviz
 
+load a parameters
+
+$ rosparam laod <YAML.file>
+
 create a map from a image
 
 $ python stvori_array.py
